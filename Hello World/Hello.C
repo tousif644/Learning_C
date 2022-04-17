@@ -2,11 +2,7 @@
 
 int main()
 {
-    int num = 25;
-    int age = 22;
-
-    char s = 's';
-    float pi = 3.14;
+   printf("Hello,World\n");
 
     return 0;
 }
